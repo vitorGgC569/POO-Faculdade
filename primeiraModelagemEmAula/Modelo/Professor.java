@@ -41,6 +41,14 @@ public class Professor {
         this.matricula = matricula;
     }
 
+    /**
+     *
+     * @param matricula String
+     * @param nome String
+     * @param telefone String
+     * @param email String
+     * @param turma Turma obeto personalizado
+     */
     public Professor(String matricula, String nome, String telefone, String email, Turma turma) {
         this.matricula = matricula;
         this.nome = nome;

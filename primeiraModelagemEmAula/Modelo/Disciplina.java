@@ -22,7 +22,9 @@ public class Disciplina {
         return codigo;
     }
 
-    public Disciplina(String codigo, String nome, Integer cargaHoraria, String ementa, String modalidade, Professor professor, Turma turma) {
+    public Disciplina(String codigo, String nome, Integer cargaHoraria,
+                      String ementa, String modalidade, Professor professor,
+                      Turma turma) {
         this.codigo = codigo;
         this.nome = nome;
         this.cargaHoraria = cargaHoraria;

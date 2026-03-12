@@ -37,6 +37,14 @@ public class Turma {
         return ano;
     }
 
+    public Turma(Integer idTurma, String codigo, String nome, Date ano, Curso curso) {
+        this.idTurma = idTurma;
+        this.codigo = codigo;
+        this.nome = nome;
+        this.ano = ano;
+        this.curso = curso;
+    }
+
     public void setAno(Date ano) {
         this.ano = ano;
     }
