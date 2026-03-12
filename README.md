@@ -2,7 +2,7 @@
 
 **Curso:** Sistemas de Informação  
 **Disciplina:** Programação Orientada a Objetos (POO)  
-**Aluno(s):** [Seu Nome / Nome da Equipe]  
+**Aluno(s):** Vitor Gabriel Gomes da Conceição  
 **Data:** 12 de março de 2026
 
 ---
@@ -16,3 +16,4 @@ Devido a origem do código e intenção didática de sala de aula. Se busca cód
 ### 2. Modelagem (Diagrama de Classes)
 Na pasta assets de cada projeto modelado haverá o diagrama de classes passado para a codificação em aula e seguindo as etapas do professor, interfaces, heranças e demais tecnologias,
 serão somente utilizadas quando apresentadas em sala e na etapa correspondente.
+
